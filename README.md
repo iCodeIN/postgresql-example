@@ -1,6 +1,6 @@
 # postgresql-example
 
-This is an experiment about PostgreSQL and Rust.
+This is an experiment with PostgreSQL and Rust.
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@ This is an experiment about PostgreSQL and Rust.
 
 ## Usage
 
-### Start the PostgreSQL instance using `docker-compose`:
+Start the PostgreSQL instance using `docker-compose`:
 
 ```console
 docker compose up -d
